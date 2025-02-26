@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, I'm elidotpy.
+
+I make projects for fun, and i rarely finish them, so don't expect much from me.
 
 <!--
 **elidotpy/elidotpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
